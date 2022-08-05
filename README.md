@@ -7,7 +7,7 @@ Arduino Code to simulate Casio calulator watch. I wrote this 2022, while off fro
 3. Dual time works
 4. Calculator screen partially works.
 5. All of the fonts and pixel stuff have been fully mapped out
-6. Other screen will render for their initial paint, but won't function
+6. Other screens will render for their initial paint, but won't function
 7. None of the "set" modes work
 8. Even the light works! (The display dimness is changed)
 
